@@ -1,3 +1,11 @@
+# Calculator - 
+ ![calculator](https://github.com/shwetach004/calculator/assets/120183534/42be8e90-dfb2-4086-949d-54e9055bd167)
+
+
+
+
+
+
 # Calculator - Features
 
  1. A Responsive Calculator for Any Device.
@@ -11,7 +19,7 @@
  9. Elevate Your Math Experience.
  10. Try It Now and Calculate with Style!
 
-# Technologies Used
+# Technologies Used -
 1. HTML - defines structure of calculator.
 2. CSS  - defines styling and appearance of calculator.
 3. JS   - defines functioning of basic mathematical functionings.
